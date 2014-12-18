@@ -135,3 +135,6 @@ def main():
   print_soln(puzzle)
   write_puzzle(puzzle, soln)
 
+# This is the standard boilerplate that calls the main() function.
+if __name__ == '__main__':
+  main()
